@@ -1,0 +1,21 @@
+body{
+    border-style:solid;
+    border: width 50px;
+    margin-left:25%;
+    margin-right:20%;
+    padding-left:2%;
+    padding-right: 5%;
+
+}
+.line-input{
+    border:none;
+    border-bottom: solid black 2px;
+    border-right: 100%;
+    width: 300px;
+    outline:none;
+
+    
+}
+
+
+ 
